@@ -1,1 +1,2 @@
-echo "echo" 
+#!/bin/bash
+echo "echo"
